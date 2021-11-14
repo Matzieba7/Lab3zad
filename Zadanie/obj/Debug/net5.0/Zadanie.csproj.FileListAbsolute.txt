@@ -1,0 +1,82 @@
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\appsettings.json
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.exe
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.deps.json
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.runtimeconfig.json
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.runtimeconfig.dev.json
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.dll
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\ref\Zadanie.dll
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.pdb
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.Views.dll
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\bin\Debug\net5.0\Zadanie.Views.pdb
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.csproj.AssemblyReference.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.AssemblyInfo.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.RazorAssemblyInfo.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.RazorAssemblyInfo.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\staticwebassets\Zadanie.StaticWebAssets.Manifest.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\staticwebassets\Zadanie.StaticWebAssets.xml
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\scopedcss\bundle\Zadanie.styles.css
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.input.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.output.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.RazorCoreGenerate.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.RazorTargetAssemblyInfo.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.RazorTargetAssemblyInfo.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.Views.pdb
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.dll
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\ref\Zadanie.dll
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.pdb
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.genruntimeconfig.cache
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Zadanie.csproj.CopyComplete
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created.cshtml.g.cs
+C:\Users\wlkr2\source\repos\Solucja_3\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created_loop.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\appsettings.Development.json
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\appsettings.json
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.exe
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.deps.json
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.runtimeconfig.json
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.runtimeconfig.dev.json
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.dll
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\ref\Zadanie.dll
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.pdb
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.Views.dll
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\bin\Debug\net5.0\Zadanie.Views.pdb
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.csproj.AssemblyReference.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.AssemblyInfoInputs.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.AssemblyInfo.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.csproj.CoreCompileInputs.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.MvcApplicationPartsAssemblyInfo.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorAssemblyInfo.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorAssemblyInfo.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\staticwebassets\Zadanie.StaticWebAssets.Manifest.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\staticwebassets\Zadanie.StaticWebAssets.xml
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\scopedcss\bundle\Zadanie.styles.css
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.input.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.output.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorCoreGenerate.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created_loop.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorTargetAssemblyInfo.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorTargetAssemblyInfo.cs
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.Views.pdb
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.dll
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\ref\Zadanie.dll
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.pdb
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.genruntimeconfig.cache
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.csproj.CopyComplete
