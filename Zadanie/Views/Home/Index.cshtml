@@ -1,12 +1,12 @@
-﻿@model Zadanie.Models.FormModel
+﻿@model Zadanie.Models.HomeModel
 @{
-    ViewData["Title"] = "Form-Create";
+    ViewData["Title"] = "Form-Creat";
 }
 
 <h1 class="display-4">Formularz</h1>
 <div class="row">
     <div class="col-md-4">
-        <form asp-controller="Form" asp-action="Create" method="post">
+        <form asp-controller="Home" asp-action="Created" method="post">
 
             <div class="form-group">
                 <label asp-for="imie" class="control-label"></label>

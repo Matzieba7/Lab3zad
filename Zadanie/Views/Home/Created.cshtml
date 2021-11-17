@@ -1,0 +1,19 @@
+﻿@model Zadanie.Models.HomeModel
+@{
+    ViewData["Title"] = "Form-Created";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Dane z formularza</h1>
+    @Html.DisplayNameFor(model => model.imie):          @Html.DisplayFor(model => model.imie)
+    <br />
+    @Html.DisplayNameFor(model => model.ilosc_powtorzen):          @Html.DisplayFor(model => model.ilosc_powtorzen)
+    <br />
+    <p> ilość_powtorzeń @Html.DisplayFor(model => model.Belongs) do przedziału 1..5 </p>
+
+    @for (int i = 0; i <= Model.ilosc_powtorzen; i++)
+    {
+        <p>@Model.imie</p>
+    }
+    <p>Dziękujemy za wypełnienie formularza</p>
+</div>

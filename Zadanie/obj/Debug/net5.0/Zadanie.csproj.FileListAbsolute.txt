@@ -65,8 +65,6 @@ D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.input.c
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.TagHelpers.output.cache
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.RazorCoreGenerate.cache
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created.cshtml.g.cs
-D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Created_loop.cshtml.g.cs
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -80,3 +78,4 @@ D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\ref\Zadanie.dll
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.pdb
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.genruntimeconfig.cache
 D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Zadanie.csproj.CopyComplete
+D:\WSEI\Asp.net\Solucja3 zad\Zadanie\obj\Debug\net5.0\Razor\Views\Home\Created.cshtml.g.cs

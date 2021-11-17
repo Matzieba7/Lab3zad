@@ -23,6 +23,32 @@ namespace Zadanie.Controllers
             return View();
         }
 
-        
+        public IActionResult Created()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Created(HomeModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                if (model.ilosc_powtorzen >= 1 && model.ilosc_powtorzen <= 5)
+                {
+                    model.Belongs = "należy";
+                    return View("Created", model);
+                }
+                else
+                {
+                    model.Belongs = "nie należy";
+                    return View("Created", model);
+                }
+            }
+            else
+            {
+                return View(model);
+            }
+        }
+
     }
 }
